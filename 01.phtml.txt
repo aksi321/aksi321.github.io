@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Вывод на экран и переменные в РНР</title>
+<?php
+echo "Привет, мир!";
+?>
+</head>
+<body>
+</body>
+</html>
